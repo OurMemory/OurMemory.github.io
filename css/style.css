@@ -1,6 +1,6 @@
 /*下面的css定义已经是最精简形式，每一项的更改或删除都会影响最终效果。作为学习，不妨尝试修改小项查看效果，以增加了解。*/
 .box {
-    background:#fff;
+    background:cadetblue;
     box-shadow:none;
     border:1px solid #ddd;
     -webkit-border-radius:3px;
